@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Add a line.
 Add another line anothertime.
 Creating a new branch is quick.
+this is another man.
